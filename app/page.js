@@ -41,7 +41,7 @@ I’m working with a wellness company and sharing some simple tools that have be
         margin: "0 auto",
       }}
     >
-      <h1 style={{ marginBottom: "8px" }}>NUL Connect Script Generator</h1>
+      <h1 style={{ marginBottom: "8px" }}>Let's Connect</h1>
       <p style={{ marginBottom: "24px", color: "#444" }}>
         Fill out a few details to generate a simple connection script.
       </p>
